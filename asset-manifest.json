@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/mac-n-cheese/static/css/main.9686feb0.chunk.css",
-    "main.js": "/mac-n-cheese/static/js/main.c718a464.chunk.js",
-    "main.js.map": "/mac-n-cheese/static/js/main.c718a464.chunk.js.map",
-    "runtime-main.js": "/mac-n-cheese/static/js/runtime-main.79705d67.js",
-    "runtime-main.js.map": "/mac-n-cheese/static/js/runtime-main.79705d67.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/mac-n-cheese/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.02d6620c.chunk.js": "/mac-n-cheese/static/js/2.02d6620c.chunk.js",
-    "static/js/2.02d6620c.chunk.js.map": "/mac-n-cheese/static/js/2.02d6620c.chunk.js.map",
-    "static/js/3.d355b90b.chunk.js": "/mac-n-cheese/static/js/3.d355b90b.chunk.js",
-    "static/js/3.d355b90b.chunk.js.map": "/mac-n-cheese/static/js/3.d355b90b.chunk.js.map",
-    "index.html": "/mac-n-cheese/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/mac-n-cheese/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.9686feb0.chunk.css.map": "/mac-n-cheese/static/css/main.9686feb0.chunk.css.map",
-    "static/js/2.02d6620c.chunk.js.LICENSE.txt": "/mac-n-cheese/static/js/2.02d6620c.chunk.js.LICENSE.txt"
+    "main.css": "/declan-wu/Mac-N-Cheese-1/static/css/main.3c0f8806.chunk.css",
+    "main.js": "/declan-wu/Mac-N-Cheese-1/static/js/main.37a9629b.chunk.js",
+    "main.js.map": "/declan-wu/Mac-N-Cheese-1/static/js/main.37a9629b.chunk.js.map",
+    "runtime-main.js": "/declan-wu/Mac-N-Cheese-1/static/js/runtime-main.483b8f2a.js",
+    "runtime-main.js.map": "/declan-wu/Mac-N-Cheese-1/static/js/runtime-main.483b8f2a.js.map",
+    "static/css/2.a1564ffe.chunk.css": "/declan-wu/Mac-N-Cheese-1/static/css/2.a1564ffe.chunk.css",
+    "static/js/2.5e334854.chunk.js": "/declan-wu/Mac-N-Cheese-1/static/js/2.5e334854.chunk.js",
+    "static/js/2.5e334854.chunk.js.map": "/declan-wu/Mac-N-Cheese-1/static/js/2.5e334854.chunk.js.map",
+    "static/js/3.bc01c440.chunk.js": "/declan-wu/Mac-N-Cheese-1/static/js/3.bc01c440.chunk.js",
+    "static/js/3.bc01c440.chunk.js.map": "/declan-wu/Mac-N-Cheese-1/static/js/3.bc01c440.chunk.js.map",
+    "index.html": "/declan-wu/Mac-N-Cheese-1/index.html",
+    "static/css/2.a1564ffe.chunk.css.map": "/declan-wu/Mac-N-Cheese-1/static/css/2.a1564ffe.chunk.css.map",
+    "static/css/main.3c0f8806.chunk.css.map": "/declan-wu/Mac-N-Cheese-1/static/css/main.3c0f8806.chunk.css.map",
+    "static/js/2.5e334854.chunk.js.LICENSE.txt": "/declan-wu/Mac-N-Cheese-1/static/js/2.5e334854.chunk.js.LICENSE.txt",
+    "static/media/McMaster.37c3587b.png": "/declan-wu/Mac-N-Cheese-1/static/media/McMaster.37c3587b.png",
+    "static/media/calendar.207006c9.png": "/declan-wu/Mac-N-Cheese-1/static/media/calendar.207006c9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.79705d67.js",
-    "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.02d6620c.chunk.js",
-    "static/css/main.9686feb0.chunk.css",
-    "static/js/main.c718a464.chunk.js"
+    "static/js/runtime-main.483b8f2a.js",
+    "static/css/2.a1564ffe.chunk.css",
+    "static/js/2.5e334854.chunk.js",
+    "static/css/main.3c0f8806.chunk.css",
+    "static/js/main.37a9629b.chunk.js"
   ]
 }
